@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#banner{
+    background-image: url(https://b2247443.smushcdn.com/2247443/wp-content/uploads/2020/10/expert-vagabond-andy-sto-1024x327.jpg?lossy=1&strip=1&webp=1);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 140px;
+}
+.channels{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.channels img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+#new-york{
+    width: 300px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-size: cover;
+    background-position: center;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background: #333;
+    color: white;
+}
+
+footer .social-links a {
+    color: white;
+    margin: 0 10px;
+}
