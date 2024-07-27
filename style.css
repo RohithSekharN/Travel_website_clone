@@ -39,12 +39,15 @@ body {
     object-fit: cover;
 }
 
-footer {
-    background: #333;
+.footer {
     color: white;
 }
 
-footer .social-links a {
-    color: white;
-    margin: 0 10px;
+.social-icons i{
+    font-size: xx-large;
+    padding: 10px;
+}
+
+.social-icons i:hover{
+    transform: scale(1.5);
 }
